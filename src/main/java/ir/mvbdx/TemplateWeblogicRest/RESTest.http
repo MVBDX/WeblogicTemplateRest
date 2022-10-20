@@ -1,0 +1,11 @@
+POST http://localhost:7001/TemplateWeblogicRest/TemplateWeblogicRest/api
+Content-Type: application/json
+
+{"userId":"2162655"}
+
+###
+GET http://localhost:7001/TemplateWeblogicRest/TemplateWeblogicRest/alive
+Accept: application/json
+
+###
+
